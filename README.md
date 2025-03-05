@@ -20,6 +20,7 @@ This setup mirrors real-world IT infrastructure, incorporating **Active Director
 ![VB Windows Server 2022](images/VB-WinServer2022.png)
 
 Within the VM the Computer name is changed to `DC1` and the adapter names are configured correctly (specifying `INTERNAL` and `INTERNET` adapter)
+
 ![Win Server Net Adapters](images/Server-Adapters-Name.png)
 
 The **internal adapter** is assigned **172.16.0.1/24**, using itself as the DNS server.
@@ -104,7 +105,7 @@ Users and Computers View:
 
 ![USers and Computer View of Org](images/AD-Setup-U&C.png)
 
-### Group Policy Setup 
+### Group Policy Setup (in progress)
 The following policies are enforced:
 
 | **GPO Name**             | **Applied To**    | **Purpose**                              |
