@@ -7,7 +7,7 @@ This project sets up an **Active Directory (AD) environment** integrated with **
 3. **Ubuntu Desktop(Ubuntu-Workstation)** - A domain-joined Linux workstation
 4. **Ubuntu Desktop (osTicket)** – Hosts the osTicket system.
 
-This setup mirrors real-world IT infrastructure, incorporating **Active Directory services, DHCP, DNS, Group Policies, and user management** while providing a help desk solution through osTicket.
+This is setup to simulate a real IT infrastructure, incorporating **Active Directory services, DHCP, DNS, Group Policies, and user management** while providing a help desk solution through osTicket.
 
 ![osTicket Lab Architecture](images/osTicket-Lab-Architecture.jpg)
 ## Lab Setup
