@@ -1,0 +1,12 @@
+FirstName,LastName,Username,Title,Department,SecurityGroup
+John,Doe,jdoe,CEO,Executive,Executive Access
+Alice,Williams,awilliams,HR Manager,HR,HR Restricted
+Bob,Turner,bturner,HR Assistant,HR,HR Restricted
+Tom,Jones,tjones,SysAdmin,IT,IT Admins
+Kiran,Khan,kkhan,Helpdesk,IT,IT Admins
+Lisa,Morris,lmorris,CFO,Finance,Finance Restricted
+Rob,Perez,rperez,Accountant,Finance,Finance Restricted
+Jason,Kim,jkim,Sales Rep,Sales,Sales Team
+Michael,Johnson,mjohnson,Marketing Lead,Marketing,Marketing Team
+Sara,Wilson,swilson,Graphic Designer,Marketing,Marketing Team
+Gabriel,Lopez,glopez,Software Dev,Engineering,Engineering Team
